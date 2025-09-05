@@ -1,4 +1,4 @@
-# Piedra, Papel o Tijera - Práctica 1
+# Piedra, Papel o Tijera - Práctica 1 🪨📜✂️
 
 **Alumno:** Valentino Castellano  
 
